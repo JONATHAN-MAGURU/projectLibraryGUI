@@ -1,0 +1,14 @@
+This file contains a File named <Library Database>. To run the project. Ensure you have XAMP.
+paste the file in XAMP folder->mysql->data.
+
+GROUP MEMBERS
+
+NICE NKHOMA             BSDS2221
+CLEVER HAULI            BSDS1121
+TAPIWA CHIPOKA          BEDICT0221
+JONATHAN MAGURU         BEDICT0921
+DALITSO MBICHOLO        BICT1821
+BELCHER MJUMIRA         BEDICT1421
+SIBONGILE MALAMA        BSDS1721
+TAONGA TSEKA PHIRI      BICT3021
+COSMAS HENRICO          BICT0721
